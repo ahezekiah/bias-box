@@ -193,6 +193,4 @@ This project demonstrates:
 
 **Amanda Hezekiah**
 
-Web Design & Development Student
-
 ---
